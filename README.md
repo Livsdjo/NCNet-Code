@@ -43,3 +43,9 @@ python extract_feature.py --input_path=../raw_data/sun3d_test
 python sun3d.py
 ```
 Generate SUN3D training data if you need by following the same procedure and uncommenting corresponding lines in `sun3d.py`.
+
+## Training
+```shell script
+cd LNMNet-Network-code/core
+python main.py
+```

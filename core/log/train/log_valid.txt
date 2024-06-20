@@ -1,0 +1,2 @@
+Valid Acc	Geo Loss	Clasfi Loss	L2 Loss	
+0.003750	0.040086	0.839113	1.339393	

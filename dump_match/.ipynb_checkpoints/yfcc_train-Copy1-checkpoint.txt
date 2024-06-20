@@ -1,0 +1,17 @@
+st_peters_basilica_interior_1
+st_peters_basilica_interior_2
+st_peters_square
+st_vitus_cathedral
+taj_mahal
+taj_mahal_entrance
+temple_kyoto_japan
+temple_nara_japan
+trevi_fountain_1
+trevi_fountain_2
+united_states_capitol
+united_states_capitol_rotunda
+vatican_museum_ceiling
+via_condotti
+western_wall_jerusalem
+westminster_abbey_1
+westminster_abbey_2

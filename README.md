@@ -1,3 +1,7 @@
+## FCRNet implementation
+
+Pytorch implementation of FCRNet for paper "earning non-linear correspondences variation via a graph-based feature embedding for false correspondence removal", by Ruiyuan Li and ZhaoLin Xiao.
+
 ## Requirements & Compilation
 
 1. Requirements
